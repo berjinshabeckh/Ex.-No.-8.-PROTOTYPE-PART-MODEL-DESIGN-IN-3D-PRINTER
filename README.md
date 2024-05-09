@@ -48,8 +48,8 @@
 ## Output:
 ![image](https://github.com/Prajeeth17/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120513885/4e310a31-39dd-4cbb-8812-2e982193c947)
 
-### Name: Guruprasad B
-### Register Number: 212221230032
+### Name: Berjin Shabeck
+### Register Number: 212222240018
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
